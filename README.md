@@ -62,6 +62,9 @@ This portfolio showcases key projects completed during my focused upskilling in 
 * Implemented covergroups to track error conditions and control events.
 * *(Note: Full source code is being organized and will be uploaded shortly.)*
 
+#### **[4:1 Multiplexer (UVM)](https://github.com/kothapallivamsikrishna/4-to-1-MUX-UVM)**
+* A classic combinational logic project used to demonstrate a full UVM testbench with randomized stimulus and self-checking scoreboard.
+
 #### **[Combinational Adder (UVM)](https://github.com/kothapallivamsikrishna/combinational-adder-uvm)**
 * A foundational project demonstrating a complete UVM environment built from scratch to verify a simple 4-bit adder.
 
