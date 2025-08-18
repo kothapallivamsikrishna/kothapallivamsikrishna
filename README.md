@@ -10,9 +10,9 @@
 
 ### 👋 About Me
 
-I am a highly motivated and detail-oriented VLSI Design graduate from VIT Vellore, specializing in ASIC verification. My experience includes developing robust UVM-based verification environments and implementing functional coverage and assertion-based strategies to ensure design correctness.
+I am a detail-oriented VLSI Engineer combining hands-on experience in physical design and static timing analysis (STA) from my internship at **Intel** with a dedicated focus on advanced ASIC verification.
 
-During a year-long internship at **Intel**, I gained hands-on experience automating design flows and performing static timing analysis. I have a proven ability to develop Python and TCL scripts to parse large-scale log files and have contributed to a production-level physical design flow using Synopsys ICC2. I am eager to apply my verification skills to contribute to cutting-edge projects.
+Recognizing the critical link between front-end design intent and back-end implementation, I have spent the last year intentionally upskilling my expertise in UVM and advanced verification methodologies. This strategic focus has allowed me to build a comprehensive, full-chip perspective. My goal is to leverage my unique understanding of STA and physical design to anticipate and solve complex verification challenges earlier in the development cycle. I am now seeking a verification role where I can apply this holistic skill set.
 
 ---
 
@@ -23,7 +23,7 @@ During a year-long internship at **Intel**, I gained hands-on experience automat
 | **Verification Methodologies** | UVM, SystemVerilog Assertions (SVA), Functional Coverage, Code Coverage |
 | **Protocols** | AXI4, APB, I2C, SPI, UART, FIFO |
 | **Languages** | SystemVerilog, Verilog, Python, TCL |
-| **Tools** | Synopsys PrimeTime & ICC2, Xilinx Vivado, ModelSim |
+| **Tools** | Synopsys PrimeTime & ICC2, Xilinx Vivado |
 
 ---
 
@@ -33,30 +33,37 @@ During a year-long internship at **Intel**, I gained hands-on experience automat
 <br>
 *Jun 2023 - May 2024*
 
-* Automated the extraction and analysis of timing reports from Synopsys PrimeTime, **reducing manual effort by over 80%**.
-* Developed Python and TCL scripts to parse multi-gigabyte log files, generating concise summary reports for quick analysis.
+* Automated extraction and analysis of timing reports from Synopsys PrimeTime, **reducing manual effort by over 80%**.
+* Developed Python and TCL scripts to parse multi-gigabyte log files and generate concise summary reports.
 * Contributed to the physical design flow using Synopsys ICC2, gaining hands-on experience in a production environment.
 
 ---
 
-### 🚀 Verification Projects
+### 🚀 Project Portfolio
+
+This portfolio showcases key projects completed during my focused upskilling in advanced ASIC verification. Each project demonstrates the practical application of modern, UVM-based methodologies and serves as a testament to the skills I've honed during my strategic transition into the verification domain.
 
 #### UVM Verification of AXI4 Slave Interface
-* Developed a complete, layered UVM testbench in SystemVerilog for robust AXI4 slave verification.
-* Implemented UVM agents, sequencers, drivers, and monitors for both read and write channels.
-* Generated constrained-random AXI sequences to ensure protocol-valid burst transactions.
-* Built a self-checking scoreboard using TLM analysis ports and incorporated SystemVerilog covergroups to monitor transaction-level coverage.
+* Developed a layered UVM testbench in SystemVerilog for AXI4 slave verification.
+* Implemented UVM agents, sequencers, drivers, and monitors for read and write channels.
+* Generated constrained-random AXI sequences for protocol-valid burst transactions.
+* Built a self-checking scoreboard with TLM analysis ports and incorporated SystemVerilog covergroups to monitor transaction-level coverage.
+* *(Note: Full source code is being organized and will be uploaded shortly.)*
 
 #### Functional Coverage Verification of Synchronous FIFO
 * Constructed a parameterizable SystemVerilog testbench to verify FIFO functionality at multiple depths.
-* Utilized UVM stimulus and monitoring for concurrent read/write operations.
-* Defined covergroups and cross-coverage for key FIFO states (full, empty, half-full) and transitions.
-* Applied Vivado code coverage analysis to identify untested RTL and systematically refine test stimuli.
+* Utilized UVM stimulus and monitoring for concurrent read and write operations.
+* Defined covergroups and cross-coverage for key FIFO states and transitions.
+* *(Note: Full source code is being organized and will be uploaded shortly.)*
 
 #### Assertion-Based Verification of UART Transceiver
-* Authored SystemVerilog Assertions (SVA) for critical protocol checks, including start-bit detection, data sampling, and stop-bit timing.
+* Authored SystemVerilog Assertions (SVA) for protocol checks, including start-bit detection, data sampling, and stop-bit timing.
 * Established assertion-based monitors for automatic violation reporting during simulation.
-* Implemented covergroups to track error conditions and control events for comprehensive verification.
+* Implemented covergroups to track error conditions and control events.
+* *(Note: Full source code is being organized and will be uploaded shortly.)*
+
+#### **[Combinational Adder (UVM)](https://github.com/kothapallivamsikrishna/combinational-adder-uvm)**
+* A foundational project demonstrating a complete UVM environment built from scratch to verify a simple 4-bit adder.
 
 ---
 
