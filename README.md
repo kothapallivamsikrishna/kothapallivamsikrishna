@@ -62,6 +62,9 @@ This portfolio showcases key projects completed during my focused upskilling in 
 * Implemented covergroups to track error conditions and control events.
 * *(Note: Full source code is being organized and will be uploaded shortly.)*
 
+#### **[Sequential Adder (UVM)](https://github.com/kothapallivamsikrishna/sequential-adder-uvm)**
+* Demonstrates verification of a clocked, sequential design, including reset sequence management and timing-aware UVM components.
+
 #### **[4:1 Multiplexer (UVM)](https://github.com/kothapallivamsikrishna/4-to-1-MUX-UVM)**
 * A classic combinational logic project used to demonstrate a full UVM testbench with randomized stimulus and self-checking scoreboard.
 
