@@ -2,9 +2,9 @@
 
 **VLSI Verification Engineer**
 
-📍 Bangalore, India
+📍 Hyderabad, India
 <br>
-📧 [kothapallivamsikrishna0899@gmail.com](mailto:kothapallivamsikrishna0899@gmail.com) | 🔗 [linkedin.com/in/vamsi-krishna-kothapalli](https://linkedin.com/in/vamsi-krishna-kothapalli)
+📧 [kothapallivamsikrishna0899@gmail.com](mailto:vamsikkothapalli.99@gmail.com) | 🔗 [linkedin.com/in/vamsi-krishna-kothapalli](https://linkedin.com/in/vamsi-krishna-kothapalli)
 
 ---
 
