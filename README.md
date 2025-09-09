@@ -62,6 +62,9 @@ This portfolio showcases key projects completed during my focused upskilling in 
 * Implemented covergroups to track error conditions and control events.
 * *(Note: Full source code is being organized and will be uploaded shortly.)*
 
+#### **[4-bit Multiplier (UVM)](https://github.com/kothapallivamsikrishna/4-bit-multiplier-uvm)**
+* Focuses on verifying arithmetic logic by building a UVM testbench with a golden reference model in the scoreboard for a 4-bit multiplier.
+
 #### **[Sequential Adder (UVM)](https://github.com/kothapallivamsikrishna/sequential-adder-uvm)**
 * Demonstrates verification of a clocked, sequential design, including reset sequence management and timing-aware UVM components.
 
