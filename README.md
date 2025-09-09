@@ -65,6 +65,9 @@ This portfolio showcases key projects completed during my focused upskilling in 
 #### **[4-bit Multiplier (UVM)](https://github.com/kothapallivamsikrishna/4-bit-multiplier-uvm)**
 * Focuses on verifying arithmetic logic by building a UVM testbench with a golden reference model in the scoreboard for a 4-bit multiplier.
 
+#### **[D Flip-Flop (UVM)](https://github.com/kothapallivamsikrishna/d-flip-flop-uvm)**
+* A fundamental sequential element verified with an advanced testbench featuring multiple, targeted sequences to test specific behaviors.
+
 #### **[Sequential Adder (UVM)](https://github.com/kothapallivamsikrishna/sequential-adder-uvm)**
 * Demonstrates verification of a clocked, sequential design, including reset sequence management and timing-aware UVM components.
 
