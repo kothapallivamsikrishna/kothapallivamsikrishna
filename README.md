@@ -4,7 +4,7 @@
 
 📍 Hyderabad, India
 <br>
-📧 [kothapallivamsikrishna0899@gmail.com](mailto:vamsikkothapalli.99@gmail.com) | 🔗 [linkedin.com/in/vamsi-krishna-kothapalli](https://linkedin.com/in/vamsi-krishna-kothapalli)
+📧 [vamsikkothapalli.99@gmail.com](mailto:vamsikkothapalli.99@gmail.com) | 🔗 [linkedin.com/in/vamsi-krishna-kothapalli](https://linkedin.com/in/vamsi-krishna-kothapalli)
 
 ---
 
