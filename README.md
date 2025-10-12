@@ -50,6 +50,9 @@ This portfolio showcases key projects completed during my focused upskilling in 
 * Built a self-checking scoreboard with TLM analysis ports and incorporated SystemVerilog covergroups to monitor transaction-level coverage.
 * *(Note: Full source code is being organized and will be uploaded shortly.)*
 
+#### **[Configurable UART Protocol (UVM)](https://github.com/kothapallivamsikrishna/uart-protocol-uvm)**
+* A comprehensive project verifying a configurable UART (TX/RX) in a loopback setup. The UVM environment uses multiple targeted sequences to validate various data lengths, baud rates, parity settings, and stop bit configurations.
+
 #### Functional Coverage Verification of Synchronous FIFO
 * Constructed a parameterizable SystemVerilog testbench to verify FIFO functionality at multiple depths.
 * Utilized UVM stimulus and monitoring for concurrent read and write operations.
