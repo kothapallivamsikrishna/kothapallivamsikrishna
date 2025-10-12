@@ -62,6 +62,9 @@ This portfolio showcases key projects completed during my focused upskilling in 
 * Implemented covergroups to track error conditions and control events.
 * *(Note: Full source code is being organized and will be uploaded shortly.)*
 
+#### **[Baud Rate Generator (UVM)](https://github.com/kothapallivamsikrishna/baud-rate-generator-uvm)**
+* A practical project verifying a configurable clock divider used in serial protocols. Features a timing-aware UVM testbench that measures the generated clock period against a golden model with tolerance.
+
 #### **[4-bit Multiplier (UVM)](https://github.com/kothapallivamsikrishna/4-bit-multiplier-uvm)**
 * Focuses on verifying arithmetic logic by building a UVM testbench with a golden reference model in the scoreboard for a 4-bit multiplier.
 
