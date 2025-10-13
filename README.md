@@ -53,6 +53,9 @@ This portfolio showcases key projects completed during my focused upskilling in 
 #### **[Configurable UART Protocol (UVM)](https://github.com/kothapallivamsikrishna/uart-protocol-uvm)**
 * A comprehensive project verifying a configurable UART (TX/RX) in a loopback setup. The UVM environment uses multiple targeted sequences to validate various data lengths, baud rates, parity settings, and stop bit configurations.
 
+#### **[SPI Master Controller (UVM)](https://github.com/kothapallivamsikrishna/spi-master-uvm)**
+* Verifies an SPI master communicating with a memory slave. The testbench features a stateful scoreboard with a memory model and utilizes targeted sequences for both valid data transfers and error injection with invalid addresses.
+
 #### Functional Coverage Verification of Synchronous FIFO
 * Constructed a parameterizable SystemVerilog testbench to verify FIFO functionality at multiple depths.
 * Utilized UVM stimulus and monitoring for concurrent read and write operations.
