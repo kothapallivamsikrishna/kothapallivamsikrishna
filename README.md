@@ -53,6 +53,9 @@ This portfolio showcases key projects completed during my focused upskilling in 
 #### **[Configurable UART Protocol (UVM)](https://github.com/kothapallivamsikrishna/uart-protocol-uvm)**
 * A comprehensive project verifying a configurable UART (TX/RX) in a loopback setup. The UVM environment uses multiple targeted sequences to validate various data lengths, baud rates, parity settings, and stop bit configurations.
 
+#### **[I2C Memory Controller (UVM)](https://github.com/kothapallivamsikrishna/i2c-memory-uvm)**
+* Verifies an I2C memory system where an I2C master and slave are in a loopback configuration. The testbench drives the system via a parallel interface and uses a predictive scoreboard to validate data integrity.
+
 #### **[SPI Master Controller (UVM)](https://github.com/kothapallivamsikrishna/spi-master-uvm)**
 * Verifies an SPI master communicating with a memory slave. The testbench features a stateful scoreboard with a memory model and utilizes targeted sequences for both valid data transfers and error injection with invalid addresses.
 
