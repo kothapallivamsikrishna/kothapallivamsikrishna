@@ -56,6 +56,9 @@ This portfolio showcases key projects completed during my focused upskilling in 
 #### **[SPI Master Controller (UVM)](https://github.com/kothapallivamsikrishna/spi-master-uvm)**
 * Verifies an SPI master communicating with a memory slave. The testbench features a stateful scoreboard with a memory model and utilizes targeted sequences for both valid data transfers and error injection with invalid addresses.
 
+#### **[SPI Slave Memory (UVM)](https://github.com/kothapallivamsikrishna/spi-slave-uvm)**
+* The counterpart to the SPI master project, this UVM environment emulates a master to verify a slave memory. The driver actively controls the SPI bus, and a predictive scoreboard validates the slave's responses.
+
 #### Functional Coverage Verification of Synchronous FIFO
 * Constructed a parameterizable SystemVerilog testbench to verify FIFO functionality at multiple depths.
 * Utilized UVM stimulus and monitoring for concurrent read and write operations.
