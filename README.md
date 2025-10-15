@@ -50,6 +50,9 @@ This portfolio showcases key projects completed during my focused upskilling in 
 * Built a self-checking scoreboard with TLM analysis ports and incorporated SystemVerilog covergroups to monitor transaction-level coverage.
 * *(Note: Full source code is being organized and will be uploaded shortly.)*
 
+#### **[APB Slave RAM (UVM)](https://github.com/kothapallivamsikrishna/apb-slave-uvm)**
+* Verifies an APB slave memory using a master-emulating UVM testbench. The environment drives the APB protocol handshake and includes sequences for both valid transactions and error injection to test the `PSLVERR` response.
+
 #### **[Configurable UART Protocol (UVM)](https://github.com/kothapallivamsikrishna/uart-protocol-uvm)**
 * A comprehensive project verifying a configurable UART (TX/RX) in a loopback setup. The UVM environment uses multiple targeted sequences to validate various data lengths, baud rates, parity settings, and stop bit configurations.
 
