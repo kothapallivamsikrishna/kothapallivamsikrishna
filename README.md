@@ -43,12 +43,8 @@ Recognizing the critical link between front-end design intent and back-end imple
 
 This portfolio showcases key projects completed during my focused upskilling in advanced ASIC verification. Each project demonstrates the practical application of modern, UVM-based methodologies and serves as a testament to the skills I've honed during my strategic transition into the verification domain.
 
-#### UVM Verification of AXI4 Slave Interface
-* Developed a layered UVM testbench in SystemVerilog for AXI4 slave verification.
-* Implemented UVM agents, sequencers, drivers, and monitors for read and write channels.
-* Generated constrained-random AXI sequences for protocol-valid burst transactions.
-* Built a self-checking scoreboard with TLM analysis ports and incorporated SystemVerilog covergroups to monitor transaction-level coverage.
-* *(Note: Full source code is being organized and will be uploaded shortly.)*
+#### **[AXI4 Slave (UVM)](https://github.com/kothapallivamsikrishna/axi4-slave-uvm)**
+* Developed a layered UVM testbench to verify an AXI4 slave, featuring a master-emulating driver that handles multi-channel handshaking for constrained-random burst transactions.
 
 #### **[APB Slave RAM (UVM)](https://github.com/kothapallivamsikrishna/apb-slave-uvm)**
 * Verifies an APB slave memory using a master-emulating UVM testbench. The environment drives the APB protocol handshake and includes sequences for both valid transactions and error injection to test the `PSLVERR` response.
