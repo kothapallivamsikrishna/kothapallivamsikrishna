@@ -102,6 +102,7 @@ This portfolio showcases key projects completed during my focused upskilling in 
 This section highlights focused code examples that implement reusable patterns for advanced UVM features and verification techniques.
 
 * **[UVM Sequence Library Pattern](https://github.com/kothapallivamsikrishna/uvm-sequence-library-pattern)**: Implements the `uvm_sequence_library` pattern for managing, randomizing, and executing collections of sequences—a key technique for building scalable and maintainable test suites.
+* **[UVM TLM FIFO Pattern](https://github.com/kothapallivamsikrishna/uvm-tlm-fifo-pattern)**: A focused example of using `uvm_tlm_fifo` to create a buffered, transaction-level communication channel between two independent UVM components (`sender` and `receiver`).
 
 ---
 
